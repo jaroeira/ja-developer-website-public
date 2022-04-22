@@ -1,0 +1,131 @@
+{
+  "educationData": [
+    {
+      "id": 1,
+      "title": "2009",
+      "text": {
+        "en": "Bachelor's degree in computer science at FUMEC University, Belo Horizonte, Brazil",
+        "pt": "Bacharel em Ciência da Computação pela Universidade FUMEC, Belo Horizonte, Brasil",
+        "de": "Bachelorstudium der Computerwissenschaft an der Universität FUMEC, Belo Horizonte, Brasilien"
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "April 2007 - February 2008",
+        "pt": "Abril de 2007 - Fevereiro de 2008",
+        "de": "April 2007 - Februar 2008"
+      },
+      "text": {
+        "en": "Short-term study in computer science at the university of Freiburg - Germany",
+        "pt": "Intercâmbio acadêmico em ciência da computação na universidade de Freiburg - Alemanha",
+        "de": "Kurzzeitstudium im Fach Informatik an der Universität Freiburg - Deutschland"
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "February 2003 - July 2006",
+        "pt": "Fevereiro de 2003 - julho de 2006",
+        "de": "Februar 2003 - Juli 2006"
+      },
+      "text": {
+        "en": "Bachelor's degree in computer science at the University of FUMEC, Belo Horizonte, Brazil (without a degree)",
+        "pt": "Bacharelado em Ciência da Computação pela Universidade da FUMEC, Belo Horizonte, Brasil (sem graduação)",
+        "de": "Bachelorstudium der Computerwissenschaft an der Universität FUMEC, Belo Horizonte, Brasilien (ohne Abschluss)"
+      }
+    },
+    {
+      "id": 4,
+      "title": "2001",
+      "text": {
+        "en": "Colégio Pitágoras, Belo Horizonte, Brazil (secondary school diploma)",
+        "pt": "Colégio Pitágoras, Belo Horizonte, Brasil (diploma do ensino médio)",
+        "de": "Colégio Pitágoras, Belo Horizonte (Sekundarschulabschluss)"
+      }
+    }
+  ],
+  "experienceData": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Since December 2010",
+        "pt": "Desde dezembro de 2010",
+        "de": "Seit Dezember 2010"
+      },
+      "text": {
+        "en": "Intermedium Empreendimentos e Participações Ltda - IT consultancy, development and management of information systems",
+        "pt": "Intermedium Empreendimentos e Participações Ltda - consultoria em TI, desenvolvimento e gestão de sistemas de informação",
+        "de": "Intermedium Empreendimentos e Participações Ltda - IT-Beratung, Entwicklung und Management von Informationssystemen"
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "July 2005 - February 2006",
+        "pt": "Julho de 2005 - fevereiro de 2006",
+        "de": "Juli 2005 - Februar 2006"
+      },
+      "text": {
+        "en": "BHS Sistemas software development (information systems - ASP.NET - MS SQL Server), database administration - Belo Horizonte, Brazil",
+        "pt": "BHS Sistemas - desenvolvimento de software (sistemas de informação - ASP.NET - MS SQL Server), administração de banco de dados - Belo Horizonte, Brasil",
+        "de": "Softwareentwicklung (Informationssysteme - ASP.NET - MS SQL Server), Datenbankverwaltung - Belo Horizonte, Brasilien"
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "February 2005 - April 2005",
+        "pt": "Fevereiro de 2005 - abril de 2005",
+        "de": "Februar 2005 - April 2005"
+      },
+      "text": {
+        "en": "Internship at Grupo Novva, Belo Horizonte software developmen",
+        "pt": "Estágio no Grupo Nova, desenvolvimento de software - Belo Horizonte",
+        "de": "Praktikum bei Grupo Novva, Softwareentwicklung - Belo Horizonte"
+      }
+    },
+    {
+      "id": 4,
+      "title": "February 1999 - December 2002",
+      "text": "Intermedium Sistemas Ltda, Belo Horizonte Network administration, computer courses"
+    }
+  ],
+  "certificatesData": [
+    {
+      "id": 1,
+      "title": "09/08/2021",
+      "text": "MongoDB - The Complete Developer's Guide 2021 - 17.5 Hours"
+    },
+    {
+      "id": 2,
+      "title": "27/05/2021",
+      "text": "Advanced CSS and SASS: Flexbox, Grid, Animations - 28 Hours"
+    },
+    {
+      "id": 3,
+      "title": "07/04/2021",
+      "text": "React - The Complete Guide (incl Hooks, React Router, Redux) - 40.5 Hours"
+    },
+    {
+      "id": 4,
+      "title": "24/03/2021",
+      "text": "Vue - The Complete Guide (w/ Router, Vuex, Composition API) - 49 Hours"
+    },
+    {
+      "id": 5,
+      "title": "12/11/2020",
+      "text": "Angular & Node.js - The MEAN Stack Guide [2020 Edition] 13 Hours"
+    },
+    {
+      "id": 6,
+      "title": "29/08/2020",
+      "text": "Node.js - The Complete Guide (MVC, REST APIs, GraphQL, Deno) - 40.5 Hours"
+    },
+    {
+      "id": 7,
+      "title": "15/04/2020",
+      "text": "Flutter Development Bootcamp with Dart - 28 Hours"
+    }
+  ]
+}

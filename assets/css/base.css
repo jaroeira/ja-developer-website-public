@@ -1,0 +1,27 @@
+html {
+  font-size: 80%;
+  @apply font-sans;
+}
+
+@media screen and (min-width: 1200px) {
+  html {
+    font-size: 100%;
+  }
+}
+
+body {
+  color: #777;
+  @apply bg-background;
+}
+
+.default-container {
+  @apply md:mx-auto lg:max-w-screen-xl px-4 xl:px-0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}

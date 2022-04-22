@@ -1,0 +1,106 @@
+{
+  "menu": {
+    "home": "Start",
+    "projects": "Projekte",
+    "about": "Über mich",
+    "contact": "Kontakt"
+  },
+  "components": {
+    "the-top-projects": {
+      "my-projects": "Meine Projekte",
+      "see-all-projects": "Alle Projekte zeigen"
+    },
+    "about-section": {
+      "areas-of-expertise": "Fachgebiete",
+      "title": "Was mache ich",
+      "subtitle": "Web und Mobile Entwicklung",
+      "text": "Ich entwickle Web und Mobile Apps mit gängigen Frameworks und Werkzeugen wie Vue.js, React.js, Angular, Flutter u. a. SaaS, Docker, Google Cloud und Firebase sind häufige Ressourcen in meinen Projekten, die mir helfen, komplette Lösungen vom Frontend bis zum Backend zu erstellen.",
+      "button": "Über mich"
+    },
+    "project-card": {
+      "view-project": "Projekt zeigen"
+    },
+    "loading-card": {
+      "loading": "Wird geladen"
+    },
+    "the-about-info-card": {
+      "web-mobile-developer-label": "Web - Mobile Entwickler",
+      "date-of-birth-value": "29/09/1983",
+      "date-of-birth-label": "Geburtsdatum",
+      "nationality-value": "Brasilianisch / Italienisch",
+      "nationality-label": "Staatsangehörigkeit",
+      "current-location-label": "Wohnsitz"
+    },
+    "project-flip-card": {
+      "show-all-features": "Alle Eigenschaften anzeigen",
+      "frameworks-and-tools": "Frameworks und Werkzeuge",
+      "source-code": "Quellcode",
+      "view-on-github": "Auf Github ansehen",
+      "demo": "Demo",
+      "open-project": "Demoprojekt öffnen"
+    }
+  },
+  "pages": {
+    "projects": {
+      "all-projects": "Projekte",
+      "projects-with-tag": "Projekte nach Tag",
+      "load-more": "Mehr laden",
+      "no-projects-found": "Keine Projekte gefunden"
+    },
+    "project-detail": {
+      "description": "Beschreibung",
+      "frameworks-and-tools": "Frameworks und Werkzeuge",
+      "project-links": "Projekt-Links",
+      "view-on-github": "Quellcode auf github anzeigen",
+      "open-project": "Demoprojekt öffnen"
+    },
+    "main": {
+      "loading": "Wird geladen"
+    },
+    "contact": {
+      "form-title": "Kontaktieren Sie mich",
+      "name-placeholder": "Ihr Name",
+      "name-required": "Name ist erforderlich",
+      "email-placeholder": "Ihre E-Mail",
+      "email-required": "E-mail ist erforderlich",
+      "email-invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "message-placeholder": "Nachricht",
+      "message-required": "Nachricht ist erforderlich",
+      "send-button-label": "Nachricht senden",
+      "sending": "wird gesendet",
+      "close": "Schließen",
+      "message-sent": "Nachricht erfolgreich gesendet"
+    },
+    "error": {
+      "cant-find-page": "Entschuldigung Wir können diese Seite nicht finden!",
+      "404-message": "Entweder ist etwas schief gelaufen oder die Seite existiert nicht mehr",
+      "go-back-button-label": "Zurück zur Startseite",
+      "error": "Fehler",
+      "general-error-message": "Etwas ist schief gelaufen"
+    },
+    "about": {
+      "linguistic-proficiency": "Sprachkenntnisse",
+      "portuguese-label": "Portugiesisch",
+      "portuguese-value": "Muttersprache",
+      "english-label": "Englisch",
+      "english-value": "Fortgeschritten",
+      "german-label": "Deutsch",
+      "german-value": "C1-Niveau – DSH Prüfung – DSH3",
+      "italian-label": "Italienisch",
+      "italian-value": "Grundkenntnisse",
+      "educational-path": "Bildungsweg",
+      "professional-experience": "Berufliche Erfahrungen / Praktika",
+      "certificates-of-computer-courses": "Zertifikate der Computerlehrgänge"
+    }
+  },
+  "seo": {
+    "global": {
+      "title": "João Aroeira - Entwickler"
+    },
+    "pages": {
+      "home": {
+        "description": "Ich entwickle Apps mit den wichtigsten Frontend und Backend Technologien für Web und mobile Plattformen"
+      }
+    }
+  }
+}
