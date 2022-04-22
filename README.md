@@ -1,5 +1,9 @@
 # J.A-Developer-Web-Site
 
+# Description
+
+This site was created using the Nuxt.js framework. The Google Firebase service is used as the backend, where data is stored in the Firestore noSQL database. In the source code you can see the modular use of vue components, state management with vuex, i18n localization, use of Tailwind css framework and form validation. There is also an administrative area where you can add projects, upload images and configure the display of highlights on the main page.
+
 ## Build Setup
 
 ```bash
